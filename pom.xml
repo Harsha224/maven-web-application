@@ -97,8 +97,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>release-new</name>
-	      <url>http://18.188.158.210:8081/repository/release-new/</url>
+	      <name>first-project</name>
+	      <url>http://18.117.140.186:8081/repository/first-project/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
